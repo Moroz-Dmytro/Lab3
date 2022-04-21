@@ -33,6 +33,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AnalaizerClass">
+      <HintPath>..\..\..\Calculator\Calculator\bin\Debug\AnalaizerClass.dll</HintPath>
+    </Reference>
+    <Reference Include="CalcClass">
+      <HintPath>..\..\..\Calculator\Calculator\bin\Debug\CalcClass.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

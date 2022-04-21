@@ -8,3 +8,17 @@ D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Cal
 D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
 D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
 D:\UNIVERSITY\4-year\2-nd_semester\Industrial_Software_Development\Labs\Lab3\Calculator\Calculator\Calculator\obj\Debug\Calculator.FormCalc.resources
+C:\Users\Dmytro\OneDrive\Робочий стіл\Lab3\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Dmytro\OneDrive\Робочий стіл\Lab3\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Dmytro\OneDrive\Робочий стіл\Lab3\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Dmytro\OneDrive\Робочий стіл\Lab3\Calculator\Calculator\bin\Debug\AnalaizerClass.dll
+C:\Users\Dmytro\OneDrive\Робочий стіл\Lab3\Calculator\Calculator\bin\Debug\CalcClass.dll
+C:\Users\Dmytro\OneDrive\Робочий стіл\Lab3\Calculator\Calculator\bin\Debug\AnalaizerClass.pdb
+C:\Users\Dmytro\OneDrive\Робочий стіл\Lab3\Calculator\Calculator\bin\Debug\CalcClass.pdb
+C:\Users\Dmytro\OneDrive\Робочий стіл\Lab3\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Dmytro\OneDrive\Робочий стіл\Lab3\Calculator\Calculator\obj\Debug\Calculator.FormCalc.resources
+C:\Users\Dmytro\OneDrive\Робочий стіл\Lab3\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Dmytro\OneDrive\Робочий стіл\Lab3\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Dmytro\OneDrive\Робочий стіл\Lab3\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Dmytro\OneDrive\Робочий стіл\Lab3\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Dmytro\OneDrive\Робочий стіл\Lab3\Calculator\Calculator\obj\Debug\Calculator.pdb
